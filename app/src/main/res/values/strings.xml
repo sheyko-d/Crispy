@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crispy</string>
+    <string name="slogan">Fresh wallpapers every day</string>
+    <string name="downloading_wallpaper">Downloading wallpaper…</string>
+    <string name="setting_wallpaper">Setting wallpaper…</string>
+    <string name="welcome_title">🎅 Welcome</string>
+    <string name="welcome_desc">Just click the screen to set the wallpaper.\n\nHappy holidays!</string>
+</resources>

@@ -4,5 +4,5 @@
     <string name="downloading_wallpaper">Downloading wallpaper…</string>
     <string name="setting_wallpaper">Setting wallpaper…</string>
     <string name="welcome_title">🎅 Welcome</string>
-    <string name="welcome_desc">Just click the screen to set the wallpaper.\n\nHappy holidays!</string>
+    <string name="welcome_desc">Swipe down for more images. Click the screen to set the wallpaper.\n\nHappy holidays!</string>
 </resources>

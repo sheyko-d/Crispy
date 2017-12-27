@@ -50,7 +50,7 @@ public class PhotosAdapter extends RecyclerView.Adapter<PhotosAdapter.ViewHolder
     public void onBindViewHolder(ViewHolder holder, int position) {
         Photo photo = mPhotos.get(position);
 
-        mGlide.load(mRaw ? photo.getFullUrl() : photo.getRegularUrl()).placeholder(new ColorDrawable
+        mGlide.load(mRaw ? photo.getFullUrl() : photo.getRawUrl()).placeholder(new ColorDrawable
                 (Color.parseColor(photo.getColor()))).centerCrop().into(holder.img);
     }
 
